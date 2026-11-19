@@ -1,1 +1,0 @@
-# rodent-srvs-img
